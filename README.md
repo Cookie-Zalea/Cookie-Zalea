@@ -45,17 +45,32 @@
 ### 总览 · Overview
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cookie-Zalea&amp;hide_border=true&amp;hide_current_streak=true&amp;background=282828&amp;border=D79921&amp;stroke=D79921&amp;ring=D79921&amp;fire=D79921&amp;currStreakNum=EBDBB2&amp;currStreakLabel=D79921&amp;sideNums=EBDBB2&amp;sideLabels=D79921&amp;dates=A89984" alt="贡献总数与最长连续贡献">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Cookie-Zalea&amp;hide_current_streak=true&amp;background=282828&amp;border=3C3836&amp;stroke=D79921&amp;ring=D79921&amp;fire=D79921&amp;currStreakNum=EBDBB2&amp;sideNums=EBDBB2&amp;currStreakLabel=D79921&amp;sideLabels=D79921&amp;dates=A89984">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cookie-Zalea&amp;hide_current_streak=true&amp;background=FDF6E3&amp;border=D8CBA6&amp;stroke=B58900&amp;ring=B58900&amp;fire=B58900&amp;currStreakNum=073642&amp;sideNums=073642&amp;currStreakLabel=B58900&amp;sideLabels=586E75&amp;dates=657B83" alt="贡献总数与最长连续贡献">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cookie-Zalea&amp;theme=gruvbox" alt="按仓库代码量统计的主要语言">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cookie-Zalea&amp;theme=gruvbox" alt="按提交量统计的主要语言">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cookie-Zalea&amp;theme=gruvbox">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cookie-Zalea&amp;theme=solarized" alt="按仓库代码量统计的主要语言">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cookie-Zalea&amp;theme=gruvbox">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cookie-Zalea&amp;theme=solarized" alt="按提交量统计的主要语言">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cookie-Zalea&amp;theme=gruvbox&amp;utcOffset=8" alt="按小时统计的提交分布（UTC+8）">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cookie-Zalea&amp;theme=gruvbox" alt="GitHub 统计：星标、提交、PR、Issue 与参与贡献">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cookie-Zalea&amp;theme=gruvbox&amp;utcOffset=8">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cookie-Zalea&amp;theme=solarized&amp;utcOffset=8" alt="按小时统计的提交分布（UTC+8）">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cookie-Zalea&amp;theme=gruvbox">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cookie-Zalea&amp;theme=solarized" alt="GitHub 统计：星标、提交、PR、Issue 与参与贡献">
+  </picture>
 </p>
 
 ---
