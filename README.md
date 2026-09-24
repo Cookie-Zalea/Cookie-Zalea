@@ -5,10 +5,10 @@
   </picture>
 </p>
 
-<h1 align="center">Glimmer · 微光</h1>
+<h1 align="center">Glimmer</h1>
 
 <p align="center">
-  给小米 Vela 手表写快应用，离线优先。<br>
+  爱打音游。<br>
   <sub>Quick apps for Xiaomi Vela watches — offline first.</sub>
 </p>
 
@@ -24,21 +24,15 @@
 
 ### 关于我 · About
 
-我是 Glimmer（微光）。GitHub 上叫 `Cookie-Zalea`，在 [AstroBox](https://astrobox.online) 上署名 Zalean，B 站叫夏縁，都是同一个人。
+我是 Glimmer
 
-主要给小米手表写快应用。屏幕 432×514，没键盘，电池也小，做界面的时候得先想清楚哪些东西真的需要留在上面。
+主要给小米手表写快应用
 
-手表离线是常态，所以我干脆按离线来做：能在本地算的就不联网，一定要联网的就把结果存下来，再把抓取时间标出来。
 
-也看一些教室里大屏的项目，比如 [ClassIsland](https://github.com/ClassIsland/ClassIsland)。平时会跟 [openvela](https://github.com/open-vela/docs) 的文档，关注小米 Vela 生态的动向。
+也看一些seewo的项目，比如 [ClassIsland](https://github.com/ClassIsland/ClassIsland)。
 
-不写代码的时候基本在打音游（4K 下落式），偶尔把折腾设备的过程发到 B 站。
 
-### 在做 · Now
 
-- 把「不连手机也能用」再往前做一点
-- 「在线天气」已经合入 AstroBox 官方源
-- 跟一下 openvela 和小米 Vela 的更新
 
 ---
 
@@ -84,4 +78,4 @@
 
 有问题直接开 Issue，我会看。
 
-<p align="center"><sub>Glimmer · 微光 · 给手表写点小东西</sub></p>
+<p align="center"><sub>Glimmer</sub></p>
