@@ -64,8 +64,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cookie-Zalea&amp;theme=gruvbox&amp;utcOffset=8">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cookie-Zalea&amp;theme=solarized&amp;utcOffset=8" alt="按小时统计的提交分布（UTC+8）">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cookie-Zalea&amp;theme=gruvbox&amp;utcOffset=8&amp;v=2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cookie-Zalea&amp;theme=solarized&amp;utcOffset=8&amp;v=2" alt="按小时统计的提交分布（UTC+8）">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cookie-Zalea&amp;theme=gruvbox">
