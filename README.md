@@ -46,8 +46,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Cookie-Zalea&amp;hide_current_streak=true&amp;background=282828&amp;border=3C3836&amp;stroke=D79921&amp;ring=D79921&amp;fire=D79921&amp;currStreakNum=EBDBB2&amp;sideNums=EBDBB2&amp;currStreakLabel=D79921&amp;sideLabels=D79921&amp;dates=A89984">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cookie-Zalea&amp;hide_current_streak=true&amp;background=FDF6E3&amp;border=D8CBA6&amp;stroke=B58900&amp;ring=B58900&amp;fire=B58900&amp;currStreakNum=073642&amp;sideNums=073642&amp;currStreakLabel=B58900&amp;sideLabels=586E75&amp;dates=657B83" alt="贡献总数与最长连续贡献">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Cookie-Zalea&amp;hide_current_streak=true&amp;background=282828&amp;border=3C3836&amp;stroke=D79921&amp;ring=D79921&amp;fire=D79921&amp;currStreakNum=EBDBB2&amp;sideNums=EBDBB2&amp;currStreakLabel=D79921&amp;sideLabels=D79921&amp;dates=A89984">
+    <img src="https://streak-stats.demolab.com/?user=Cookie-Zalea&amp;hide_current_streak=true&amp;background=FDF6E3&amp;border=D8CBA6&amp;stroke=B58900&amp;ring=B58900&amp;fire=B58900&amp;currStreakNum=073642&amp;sideNums=073642&amp;currStreakLabel=B58900&amp;sideLabels=586E75&amp;dates=657B83" alt="贡献总数与最长连续贡献">
   </picture>
 </p>
 
